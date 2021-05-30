@@ -1,0 +1,50 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  max-width: 550px;
+  height: 550px;
+  margin: 100px auto;
+}
+#outerbox {
+  background-color: bisque;
+  width: 500px;
+  height: 500px;
+  padding: 50px;
+  border-radius: 5%;
+}
+#clear {
+  width: 180px;
+  height: 40px;
+  border: 2px solid pink;
+  border-radius: 15px;
+}
+#textbox {
+  width: 180px;
+  height: 50px;
+  border: 2px solid pink;
+}
+
+.formsstyle {
+  width: 200px;
+  height: 500px;
+  margin: auto;
+}
+
+input {
+  margin: 5px;
+  width: 50px;
+  padding: 5px;
+  background-color: white;
+  border: 2px solid rgba(203, 238, 120, 0.912);
+}
+.na {
+  width: 180px;
+  height: 50px;
+  margin: 10px auto;
+  font-size: 25px;
+  color: coral;
+}
